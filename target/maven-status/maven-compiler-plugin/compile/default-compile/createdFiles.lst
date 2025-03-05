@@ -1,0 +1,5 @@
+com\mycompany\proyectocrud\ProyectoCRUD.class
+modelos\actor.class
+Daos\Daos.class
+Daos\DaosActor.class
+ConexionBBDD\DbManager.class
